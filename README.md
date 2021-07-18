@@ -1,0 +1,2 @@
+- 👋 Xin chào, tôi là @duonggit
+- 👀 Tôi là một người đam mê công nghệ đặc biệt là lập trình, thích những công việc liên quan tới bảo mật và data
