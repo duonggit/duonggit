@@ -4,4 +4,3 @@
 
 [![duonggit's github stats](https://github-readme-stats.lesongvi.vercel.app/api?username=duonggit&show_icons=true&hide_title=true&count_private=true&include_all_commits=false&hide=stars,issues)](https://github.com/duonggit?tab=repositories)
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/duonggit/duonggit/blob/main/quotes/data.json)
